@@ -1,4 +1,4 @@
 APP-EGRESADOS
-Product Owner: Diego Yam
+Product Owner: Daniela Catzin
 Scrum Master: Brayan Chan
-Desarrolladores: Daniela Catzin, Yulisa May
+Desarrolladores: Diego Yam, Yulisa May
